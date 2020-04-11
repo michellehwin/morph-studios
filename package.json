@@ -1,0 +1,24 @@
+{
+  "name": "morph-studios",
+  "version": "1.0.0",
+  "description": "Morph Studios Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michellehwin/morph-studios.git"
+  },
+  "author": "Michelle Nguyen and Kenneth Myers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michellehwin/morph-studios/issues"
+  },
+  "homepage": "https://github.com/michellehwin/morph-studios#readme",
+  "dependencies": {
+    "foundation-sites": "^6.6.3",
+    "jquery": "^3.5.0",
+    "what-input": "^5.2.7"
+  }
+}
